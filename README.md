@@ -1,0 +1,1 @@
+generate a social media app readme , description about it gonna have some sample of design that could help to fetch global clients
